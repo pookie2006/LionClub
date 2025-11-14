@@ -1,0 +1,30 @@
+.main-grid {
+    display: grid;
+    grid-template-columns: 195px auto;
+}
+
+.filter-grid {
+    width: 150px;              
+    background-color: lightsteelblue;
+    padding: 1em;          
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(275px, 1fr)); /* fr stands for fraction width */
+    grid-auto-flow: row;
+    gap: 1em;
+    width: 100%; 
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    
+    background-color: aliceblue;
+    color:darkslateblue;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 2em;
+}
