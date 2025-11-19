@@ -10,7 +10,7 @@ app.use(cors());
 app.use('/profileimgs', express.static(path.join(__dirname, 'profileimgs')));
 
 // Load clubs.json
-const clubs = JSON.parse(fs.readFileSync(path.join(__dirname, '../clubs.json'), 'utf8'));
+const clubs = JSON.parse(fs.readFileSync(path.join(__dirname, 'clubs.json'), 'utf8'));
 
 // Return clubs JSON
 app.get('/clubs', (req, res) => res.json(clubs));
