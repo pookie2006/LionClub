@@ -4,6 +4,7 @@ async function loadClubs() {
     try {
         const response = await fetch('http://localhost:3000/clubs');
         const clubs = await response.json();
+        clubs.sort((a, b) => a.name.localeCompare(b.name));
         clubsData = clubs; // save for search
         populateCategoryDropdown(clubsData);
         renderClubs(clubsData);
@@ -118,12 +119,15 @@ function filterClubs() {
     const selectedCategory = categorySelect.value;
 
     const filteredClubs = clubsData.filter(club => {
-        const matchesName = club.name.toLowerCase().includes(query);
-        const matchesCategory = !selectedCategory || club.category === selectedCategory;
-        return matchesName && matchesCategory;
-    });
+    const matchesName = club.name.toLowerCase().includes(query);
+    const matchesCategory = !selectedCategory || club.category === selectedCategory;
+    return matchesName && matchesCategory;
+});
 
-    renderClubs(filteredClubs);
+// Sort alphabetically
+filteredClubs.sort((a, b) => a.name.localeCompare(b.name));
+
+renderClubs(filteredClubs);
 }
 
 // Hook into input, dropdown, and form submit
