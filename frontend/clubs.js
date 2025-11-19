@@ -186,6 +186,7 @@ function openModal(club) {
     }
 }
 
+
     
     
 
