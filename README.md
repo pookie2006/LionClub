@@ -12,3 +12,29 @@ LionClub is a web application that showcases student organizations at Columbia U
 - Search bar to filter clubs by name dynamically.
 
 ---
+
+LionClub/
+│
+├── backend/
+│   ├── node_modules/          # Backend dependencies
+│   ├── profileimgs/           # Club profile images
+│   ├── package.json           # Backend package metadata
+│   ├── package-lock.json
+│   └── server.js              # Express backend server
+│
+└── frontend/
+    ├── calendar.css
+    ├── calendar.html
+    ├── calendar.js
+    ├── calevents.json         # Calendar event data
+    │
+    ├── clubs.html
+    ├── clubs.js
+    │
+    ├── LionClub.css
+    ├── LionClub.html          # Main landing page
+    │
+    ├── students.html
+    ├── clubs.json             # Club data
+    └── package-lock.json      # If frontend uses npm
+
