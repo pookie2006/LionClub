@@ -225,7 +225,7 @@
 /* Club name text */
 .item > div > div {
     font-size: 0.5em;
-    font-family: 'Google Sans Code', sans-serif;     
+    font-family: 'Montserrat', sans-serif;     
     
     color: rgb(0, 0, 0);
     cursor: pointer;
@@ -240,7 +240,7 @@
 /* Description under club name */
 .item .description {
     font-family: 'Montserrat', sans-serif;
-    font-size: 0.4em;      /* adjust text size */
+    font-size: 0.45em;      /* adjust text size */
     color: #444;            /* slightly muted color */
     margin-top: 1px;        /* space from name */
     text-align: left;
@@ -267,7 +267,7 @@
     text-decoration: none;
     border-radius: 5px;
     font-size: 0.5em;
-    font-family: 'Google Sans Code', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, 0.3);
 }
@@ -292,7 +292,7 @@
     text-decoration: none;
     border-radius: 5px;
     font-size: 0.5em;
-    font-family: 'Google Sans Code', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     cursor: pointer;
     border: 1px solid rgba(0, 0, 0, 0.3);
@@ -301,7 +301,7 @@
 
 /* POP-UP */
 .club-title {
-    font-family: 'Google Sans Code', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 32px;
     font-weight: 700;
     color: #2a2a2a;
