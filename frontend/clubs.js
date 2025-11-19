@@ -5,6 +5,7 @@ async function loadClubs() {
         const response = await fetch('http://localhost:3000/clubs');
         const clubs = await response.json();
         clubsData = clubs; // save for search
+        populateCategoryDropdown(clubsData);
         renderClubs(clubsData);
     } catch (error) {
         console.error('Error loading clubs:', error);
@@ -91,22 +92,48 @@ function renderClubs(clubs) {
     });
 }
 
+function populateCategoryDropdown(clubs) {
+    const categorySelect = document.getElementById('category-filter');
+
+    // Get unique categories
+    const categories = [...new Set(clubs.map(club => club.category).filter(Boolean))].sort();
+
+    // Add them to the dropdown
+    categories.forEach(cat => {
+        const option = document.createElement('option');
+        option.value = cat;
+        option.textContent = cat;
+        categorySelect.appendChild(option);
+    });
+}
+
 // ----- Search Bar Logic -----
+// ----- Search + Category Filter Logic -----
 const searchForm = document.getElementById('search-form');
 const searchInput = document.getElementById('search-input');
+const categorySelect = document.getElementById('category-filter');
 
+function filterClubs() {
+    const query = searchInput.value.toLowerCase().trim();
+    const selectedCategory = categorySelect.value;
+
+    const filteredClubs = clubsData.filter(club => {
+        const matchesName = club.name.toLowerCase().includes(query);
+        const matchesCategory = !selectedCategory || club.category === selectedCategory;
+        return matchesName && matchesCategory;
+    });
+
+    renderClubs(filteredClubs);
+}
+
+// Hook into input, dropdown, and form submit
+searchInput.addEventListener('input', filterClubs);
+categorySelect.addEventListener('change', filterClubs);
 searchForm.addEventListener('submit', (e) => {
-    e.preventDefault(); // prevent page refresh
-    const query = searchInput.value.toLowerCase().trim();
-    const filteredClubs = clubsData.filter(club => club.name.toLowerCase().includes(query));
-    renderClubs(filteredClubs);
+    e.preventDefault();
+    filterClubs();
 });
 
-searchInput.addEventListener('input', () => {
-    const query = searchInput.value.toLowerCase().trim();
-    const filteredClubs = clubsData.filter(club => club.name.toLowerCase().includes(query));
-    renderClubs(filteredClubs);
-});
 
 // ----- Modal Logic -----
 const modal = document.createElement('div');
