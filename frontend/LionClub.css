@@ -133,6 +133,26 @@
     max-width: 100%;
 }
 
+/* Style the dropdown itself */
+#category-filter {
+    font-family: 'Montserrat', sans-serif; /* change to your font */
+    font-size: 0.9em; /* optional */
+    padding: 6px 10px; /* adjust size */
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #000; /* text color */
+    outline: none;
+}
+
+/* Style the options inside */
+#category-filter option {
+    font-family: 'Montserrat', sans-serif; /* match the select */
+    font-size: 0.9em;
+    color: #000;
+}
+
+
 @media (max-width: 900px) {
     .hero-content {
         text-align: center;
