@@ -1,7 +1,70 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta http-equiv="refresh" content="0; url=LionClub.html">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LionClub</title>
+    <link rel="stylesheet" href="LionClub.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
 </head>
-<body></body>
+<body>
+    <!-- FIXED NAVBAR -->
+    <nav class="top-nav">
+        <div class="nav-left">
+            <a href="index.html" class="logo">LionClub</a>
+        </div>        
+
+        <div class="nav-right">
+            <a href="students.html">For Students</a>
+            <a href="clubs.html">For Clubs</a>
+            <a href="calendar.html">Master Calendar</a>
+        </div>
+        
+    </nav>
+
+    <!-- Spacer so hero doesn't slide under navbar -->
+    <div class="nav-spacer"></div>
+
+    <div class="hero-banner" id="hero-banner">
+        <div class="hero-overlay">
+            <div class="hero-content">
+
+                <div class="hero-text">
+                    <h1>LionClub: Columbia University's Hub for Student Organizations</h1>
+                    <p>Explore 60+ student organizations, events, and more all in one place!</p>
+                </div>
+
+                <div class="hero-search">
+                    <form id="search-form">
+                        <input type="text" id="search-input" placeholder="Search clubs...">
+                        <select id = "category-filter">
+                            <option value = "">All Categories</option>
+                        </select>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    
+    <!-- Spacer ensures content doesn't go under fixed header -->
+    <div id="hero-spacer"></div>
+
+    <div class="main-grid">
+        <div class="club-grid">
+            <div class="grid-container" id="club-container"></div>
+        </div>
+    </div>
+
+<!-- Club Modal -->
+<div id="club-modal"></div>
+
+<script src="clubs.js"></script>
+
+</body>
 </html>
