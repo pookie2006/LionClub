@@ -120,8 +120,9 @@ function filterClubs() {
 
     const filteredClubs = clubsData.filter(club => {
     const matchesName = club.name.toLowerCase().includes(query);
+    const matchesDescription = club.description && club.description.toLowerCase().includes(query);
     const matchesCategory = !selectedCategory || club.category === selectedCategory;
-    return matchesName && matchesCategory;
+    return (matchesName || matchesDescription) && matchesCategory;
 });
 
 // Sort alphabetically
@@ -183,25 +184,26 @@ function openModal(club) {
     const recentEvents = document.createElement('h4');
     recentEvents.textContent = "Most Recent Post/Event";
     recentEvents.classList.add("recent-events");
-
+    recentEvents.style.textAlign = 'center'; // center horizontally
+    recentEvents.style.width = '100%';
+    
     headerStrip.appendChild(title);
     modalContent.appendChild(headerStrip);
     modalContent.appendChild(recentEvents);
 
     if (club.latest_post_url) {
         const container = document.createElement('div');
-        container.style.maxWidth = '700px';
-        container.style.width = '90%';
+        container.classList.add('instagram-container');
+        container.style.display = 'flex';
+        container.style.justifyContent = 'center'; 
         container.style.margin = '20px 0';
-        container.style.display = 'block';
 
         const blockquote = document.createElement('blockquote');
         blockquote.classList.add('instagram-media');
         blockquote.setAttribute('data-instgrm-permalink', club.latest_post_url);
         blockquote.setAttribute('data-instgrm-version', '14');
-        blockquote.style.width = '80%';
-        blockquote.style.margin = '0';
-        blockquote.marginTop = '0';
+        blockquote.style.width = '100%';
+        blockquote.style.maxWidth = '500px';
 
         container.appendChild(blockquote);
         modalContent.appendChild(container);
@@ -216,6 +218,7 @@ function openModal(club) {
             if (window.instgrm) window.instgrm.Embeds.process();
         }
     }
+    
 }
-
 loadClubs();
+

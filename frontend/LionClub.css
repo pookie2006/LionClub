@@ -208,10 +208,13 @@
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-auto-flow: row;
     gap: 1em;
     width: 100%; 
+    justify-content: center;
+    margin: 0 auto;
+    
 }
 
 /* grid box */
@@ -228,8 +231,10 @@
     overflow: hidden;
     padding: 10px;
     box-sizing: border-box;
-
     border: 1px solid var(--item-border-color, rgba(0, 0, 0, 0.147)); /* added border */
+    max-width: 350px;
+    margin: 0 auto;
+    width: 100%;
 }
 
 /* Profile picture */
@@ -362,6 +367,16 @@
     font-size: 20px;
     font-weight: 700;
 }
+.instagram-container {
+    display: flex;
+    justify-content: center;
+}
+
+.instagram-container .instagram-media {
+    margin: 0 auto !important;
+}
+
+
 
 
 
