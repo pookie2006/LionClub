@@ -16,7 +16,7 @@
     padding: 0 20px;
     z-index: 10000;
 
-    font-family: 'Google Sans Code', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .top-nav {
@@ -30,6 +30,7 @@
 .top-nav .nav-right {
     display: flex;
     gap: 25px;
+    font-family: 'Google Sans Code', sans-serif;
 }
 
 .top-nav .logo {
@@ -93,10 +94,18 @@
 
 .hero-text {
     color: white;
+    
 }
+
+.hero-text h1 {
+    font-size: 40px;
+    font-family: "Google Sans Code", sans-serif;
+}
+
 
 .hero-text p {
     font-size: 20px;
+    font-family: "Google Sans Code", sans-serif;
 }
 
 
@@ -124,7 +133,7 @@
 
 .hero-search input {
     padding: 8px 12px;
-    font-family: 'Google Sans Code', sans-serif; 
+    font-family: 'Montserrat', sans-serif; 
     font-size: 1em;
     border-radius: 8px;
     border: none;
@@ -275,9 +284,9 @@
 }
 
 .linktree-btn {
-    display: block;                 /* changed */
-    width: 100%;                    /* added */
-    box-sizing: border-box;         /* added */
+    display: block;                
+    width: 100%;                    
+    box-sizing: border-box;      
 
     padding: 4px 8px;
     margin-top: 1em;
@@ -342,6 +351,7 @@
     margin: 0;
     font-size: 24px;
     font-weight: 700;
+    font-family: "Montserrat", sans serif;
 }
 
 .recent-events {
