@@ -120,8 +120,9 @@ function filterClubs() {
 
     const filteredClubs = clubsData.filter(club => {
     const matchesName = club.name.toLowerCase().includes(query);
+    const matchesDescription = club.description && club.description.toLowerCase().includes(query);
     const matchesCategory = !selectedCategory || club.category === selectedCategory;
-    return matchesName && matchesCategory;
+    return (matchesName || matchesDescription) && matchesCategory;
 });
 
 // Sort alphabetically
