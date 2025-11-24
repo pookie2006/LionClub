@@ -3,7 +3,7 @@
     "name": "Columbia VSA",
     "instagram": "columbia.vsa",
     "description": "Columbia University Vietnamese Students Association ♔ Vietnamese Student Association @columbia ♔",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CU_VSA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_VSA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ93nJlDjHY/",
     "linktree_url": "https://linktr.ee/columbiavsa",
     "category": "Cultural"
@@ -12,7 +12,7 @@
     "name": "Columbia CSC",
     "instagram": "columbiacsc",
     "description": "Columbia CSC Official Instagram for Columbia Chinese Students Club!",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CU_CSC.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_CSC.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRCspjzDQAU/",
     "linktree_url": "https://linktr.ee/CSC_Columbia",
     "category": "Cultural"
@@ -21,7 +21,7 @@
     "name": "Columbia TASA",
     "instagram": "tasa_cu",
     "description": "Columbia University TASA We are the Taiwanese American Students Association at Columbia University! 💙🧋🥠🥟🥢❤️ Follow our food adventures: @fattassas",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CU_TASA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_TASA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ8LSktDFhF/",
     "linktree_url": "",
     "category": "Cultural"
@@ -30,7 +30,7 @@
     "name": "Columbia SSA",
     "instagram": "columbia_ssa",
     "description": "Columbia University Singapore Students Association",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CU_SSA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_SSA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ93nJlDjHY/",
     "linktree_url": "https://linktr.ee/columbiassa",
     "category": "Cultural"
@@ -39,7 +39,7 @@
     "name": "CU Thai Club",
     "instagram": "cuthaiclub",
     "description": "CU Thai Club The official platform for current Thai students & alumni at @columbia 🇹🇭",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUTHAI.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUTHAI.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ93nJlDjHY/",
     "linktree_url": "",
     "category": "Cultural"
@@ -48,7 +48,7 @@
     "name": "Columbia HKSSS",
     "instagram": "columbiahksss",
     "description": "Hong Kong Students & Scholars Society (HKSSS) Columbia University’s Hong Kong Student Organization 💌Email hksssboard@columbia.edu with any questions!",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUHKSSS.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUHKSSS.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQZsXY_D_JW/",
     "linktree_url": "",
     "category": "Cultural"
@@ -57,7 +57,7 @@
     "name": "Columbia JSA",
     "instagram": "columbiajsa",
     "description": "🎌 Columbia University JSA 🎌 Nonprofit organization 🇯🇵コロンビア大学日本人生徒会 🗼Columbia Japanese Students Association 🗽Promoting Japanese culture across campus 📧 → jsaboard@columbia.edu",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUJSA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUJSA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ-zP-vlRjF/",
     "linktree_url": "https://linktr.ee/columbiajsa",
     "category": "Cultural"
@@ -66,7 +66,7 @@
     "name": "Columbia Asian American Alliance",
     "instagram": "columbia.aaa",
     "description": "Asian American Alliance Community Organization Columbia University’s Pan-Asian political & cultural alliance ⭐️ SILK 2025 tickets! ⤵️",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUAAA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUAAA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRLtmqNgJH3/",
     "linktree_url": "",
     "category": "Cultural"
@@ -75,7 +75,7 @@
     "name": "Columbia SSA",
     "instagram": "columbia.ssa",
     "description": "Official Instagram of Columbia University’s Somali Student Association. Est. 2021 🇸🇴🗽",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUSSA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUSSA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ4ss_PkdTM/",
     "linktree_url": "",
     "category": "Cultural"
@@ -84,7 +84,7 @@
     "name": "Columbia HSA",
     "instagram": "hsacolumbia",
     "description": "Haitian Students Association | Columbia University A space to connecting with fellow Haitians and celebrate our culture🇭🇹 Everyone is welcome :)",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUHSA.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUHSA.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRNvTBnkUD0/",
     "linktree_url": "",
     "category": "Cultural"
@@ -93,7 +93,7 @@
     "name": "Black @ CU",
     "instagram": "columbiabso",
     "description": "Black@CU The Official Instagram of The Columbia University Black Students' Organization.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/BLKCU.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/BLKCU.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRNm9J5EnsZ/",
     "linktree_url": "https://linktr.ee/columbiabso",
     "category": "Cultural"
@@ -102,7 +102,7 @@
     "name": "CU Student Organization of Latines",
     "instagram": "cu_sol",
     "description": "The Student Organization of Latines ☀️ Working to foster and empower the Latine community @columbia through social, cultural, and academic initiatives.☀️",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUSOL.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUSOL.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ7mXO6gXTm/",
     "linktree_url": "https://linktr.ee/cusol",
     "category": "Cultural"
@@ -111,7 +111,7 @@
     "name": "Mixed Heritage Society",
     "instagram": "mhscolumbia",
     "description": "Mixed Heritage Society | CU ♔ Columbia University’s multicultural space🤎🫂 Meetings (most) Thursdays at 7pm",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUMHS.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUMHS.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRAIR2RCXpe/",
     "linktree_url": "https://linktr.ee/mixedheritagesociety",
     "category": "Cultural"
@@ -120,7 +120,7 @@
     "name": "Columbia Consulting Group",
     "instagram": "columbiaconsulting",
     "description": "Oldest and Largest Consulting Group at Columbia University. Working with Real-World Businesses",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiaconsulting.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiaconsulting.jpg",
     "latest_post_url": "https://www.instagram.com/p/DNn6yuKJWsw/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiaconsultinggrp?utm_source=linktree_profile_share&ltsid=28ee306f-d39f-485a-a54e-77275af80c8a",
     "category": "Consulting"
@@ -129,7 +129,7 @@
     "name": "Ascend Consulting Group @ Columbia",
     "instagram": "ascend_columbia",
     "description": "ACG recruits, trains, and empowers students to build alongside the best startups in the world.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/ascend_columbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/ascend_columbia.jpg",
     "latest_post_url": "https://www.instagram.com/ascend_columbia/?hl=en",
     "linktree_url": "https://linktr.ee/acg_columbia?utm_source=linktree_profile_share&ltsid=c3279b5a-88dd-4620-9e68-be0acebc92b4",
     "category": "Consulting"
@@ -138,7 +138,7 @@
     "name": "Project V Solutions Consulting Columbia University",
     "instagram": "columbia_projectv",
     "description": "Uniting diverse minds to consult, actualize and elevate corporate performance and social responsibility",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbia_projectv.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbia_projectv.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRICkhkET0r/?hl=en",
     "linktree_url": "https://linktr.ee/columbia_projectvsolutions?utm_source=linktree_profile_share&ltsid=e5a82174-da02-43b1-94d2-581596944dd2",
     "category": "Consulting"
@@ -147,7 +147,7 @@
     "name": "Consult Your Community at Columbia",
     "instagram": "cyc.columbia",
     "description": "Columbia’s Premier Pro-Bono Consulting Group",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cyc.columbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cyc.columbia.jpg",
     "latest_post_url": "https://www.instagram.com/p/DPxWJBRDXu6/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/cyc.columbia?utm_source=linktree_profile_share&ltsid=16f812ed-e90b-4c89-8572-ad8c90db8264",
     "category": "Consulting"
@@ -156,7 +156,7 @@
     "name": "Columbia Global Research & Consulting Group - GRC",
     "instagram": "columbiagrc",
     "description": "Columbia University’s Largest Undergraduate Consulting Club. We work with social impact organizations on real-world projects. Application in our bio!",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiagrc.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiagrc.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRI8N8ikXCy/?hl=en",
     "linktree_url": "https://linktr.ee/grc.columbia?utm_source=linktree_profile_share&ltsid=b763d6e0-d74f-4e92-a2e4-2074372ffead",
     "category": "Consulting"
@@ -165,7 +165,7 @@
     "name": "Columbia Alpha Partners",
     "instagram": "cap.columbia",
     "description": "Interact with industry. Meet like-minded students. Find your future. 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 | 𝐆𝐥𝐨𝐛𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐬 | 𝐑𝐞𝐚𝐥 𝐄𝐬𝐭𝐚𝐭𝐞",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cap.columbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cap.columbia.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ2uPk2joNw/?hl=en",
     "linktree_url": "https://linktr.ee/columbia.alpha.partners?utm_source=linktree_profile_share&ltsid=0ab9f54d-0a73-4189-ae91-6aaff0253dcc",
     "category": "Finance"
@@ -174,7 +174,7 @@
     "name": "Columbia Financial Investment Group",
     "instagram": "cfig.columbia",
     "description": "We are CFIG, Columbia’s largest undergraduate finance club.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cfig.columbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cfig.columbia.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRDl5Y3j57n/?hl=en",
     "linktree_url": "https://linktr.ee/cfigcolumbia?utm_source=linktree_profile_share&ltsid=b9e0191e-584b-45f1-b590-0e28244f3cc4",
     "category": "Finance"
@@ -183,7 +183,7 @@
     "name": "116th & Partners LLC",
     "instagram": "116thpartners",
     "description": "Columbia University's premier student-led and financed investment fund. Founded in 2015.",
-    "profile_picture_url": "http://localhost:3000/116thpartners.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/116thpartners.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQX5ii3iaPu/?hl=en&img_index=1",
     "linktree_url": "https://116th-partners.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnR6_WaXZZ_504gdvlLksO9lE7C5y_zJpEPIOnmAIMq8Gvc4caiS77u-Ey2eM_aem_68B5X1PtVMQdzkg5it45bg",
     "category": "Finance"
@@ -192,7 +192,7 @@
     "name": "Columbia Organization of Rising Entrepreneurs (CORE)",
     "instagram": "coreatcu",
     "description": "Educating, inspiring, and launching the next generation of @columbia entrepreneurs",
-    "profile_picture_url": "http://localhost:3000/profileimgs/coreatcu.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/coreatcu.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRNwcPgElBL/?hl=en",
     "linktree_url": "https://linktr.ee/coreatcu?utm_source=linktree_profile_share&ltsid=a0ce391c-1855-48d0-95b3-741619431150",
     "category": "Finance"
@@ -201,7 +201,7 @@
     "name": "Columbia Economics Society",
     "instagram": "cueconsociety",
     "description": "Columbia’s oldest pre-professional group.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cueconsociety.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cueconsociety.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ5VPBGkZh5/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiaeconsociety?utm_source=linktree_profile_share&ltsid=f7bda2c4-d2be-46cb-a0f8-784d30e492cb",
     "category": "Finance"
@@ -210,7 +210,7 @@
     "name": "LendingCore Partners",
     "instagram": "lendingcore",
     "description": "Columbia University’s First Student-Run Private Credit Group",
-    "profile_picture_url": "http://localhost:3000/profileimgs/lendingcore.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/lendingcore.jpg",
     "latest_post_url": "https://www.instagram.com/p/DP90UZZkUui/?hl=en&img_index=1",
     "linktree_url": "https://www.lendingcorepartners.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnKnhuDZhSjHyVAvz5kT78yr2HZljxfBU8_kQRQSaSFOAPiI-dRGd9mTmHzpk_aem_EJnOI2JrNKo_7S1pwnmCpQ",
     "category": "Finance"
@@ -219,7 +219,7 @@
     "name": "Columbia Quant Group",
     "instagram": "columbia.quant.group",
     "description": "We are Columbia Quant Group (CQG)—Columbia University's first and only quantitative finance club.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbia.quant.group.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbia.quant.group.jpg",
     "latest_post_url": "https://www.instagram.com/p/DPOuJGOjTDg/?hl=en&img_index=1",
     "linktree_url": "https://www.columbiaquantgroup.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn9QE3T-oiTA579NsESNvm-bwfVCKVrp9KXl6mA2od0qfm-GoltFR_K0HXGhM_aem_wRo53JiPusaOcB9_wfqwvw",
     "category": "Finance"
@@ -228,7 +228,7 @@
     "name": "Columbia Lioness Quantitative",
     "instagram": "columbia.clq",
     "description": "Created to support, educate, and connect women in quantitative finance! Backed by Jane Street, Citadel, Five Rings, HRT, Tradermath, and Scotiabank.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbia.clq.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbia.clq.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ5En0qEok8/?hl=en",
     "linktree_url": "https://linktr.ee/columbia.clq?utm_source=linktree_profile_share&ltsid=0e90825b-8cef-401c-9b0e-df4bb8c4b3f1",
     "category": "Finance"
@@ -237,7 +237,7 @@
     "name": "Columbia Undergraduate Wealth Management Club",
     "instagram": "cuwmc",
     "description": "Empowering Future Leaders in Private Wealth Management and Investment Strategies",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cuwmc.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cuwmc.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRFPmVpkZ7B/?hl=en",
     "linktree_url": "https://columbiawm.org/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn6eiSRb-aMLABOCU6nk2xyj_Dos9-eY-xLGnnhtehQyY-zEJ6k3B4EkqL6vs_aem_rVD1mlsrBfZE-BWQia967Q",
     "category": "Finance"
@@ -246,7 +246,7 @@
     "name": "Global Equity Management",
     "instagram": "gem.columbia",
     "description": "GEM's Columbia Chapter",
-    "profile_picture_url": "http://localhost:3000/profileimgs/gem.columbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/gem.columbia.jpg",
     "linktree_url": "https://www.globalequitymanagement.org/?fbclid=PAQ0xDSwL5xX9leHRuA2FlbQIxMQABp-WX01kL5TlkIxMEqlOBClqIAxZtiuo0yF8NqciAz3zJ-b8-eYi5dMse5Uvv_aem_GtZ5ncmXfqg4JMqeKbvjgw&utm_source=ig&utm_medium=social&utm_content=link_in_bio",
     "category": "Finance"
   },
@@ -254,7 +254,7 @@
     "name": "Columbia Venture Partners",
     "instagram": "columbia_cvp",
     "description": "Columbia Venture Partners is Columbia’s leading venture capital initiative for the undergraduate student body.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbia_cvp.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbia_cvp.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRNwcPgElBL/?hl=en",
     "linktree_url": "https://linktr.ee/columbia_cvp?utm_source=linktree_profile_share&ltsid=594b4fc4-4b5f-4b56-8a2b-a1dcc50427d3",
     "category": "Finance"
@@ -263,7 +263,7 @@
     "name": "Engineers Without Borders USA Columbia University",
     "instagram": "cuewb",
     "description": "🦁 Columbia University Chapter | Founded 2004\n📍Engineering Projects: Obodan, Ghana & Mpakadan, Ghana\n🎉Completed Projects: Uganda, Morocco, and Ghana",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cuewb.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cuewb.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRN4hpZDwLb/?hl=en",
     "linktree_url": "https://linktr.ee/cuewb?utm_source=linktree_profile_share&ltsid=d261375f-1f55-4229-9a1b-dec0fa7e151c",
     "category": "Engineering"
@@ -272,7 +272,7 @@
     "name": "Columbia SWE",
     "instagram": "columbia_swe",
     "description": "Official account for @columbia Undergraduate Society of Women Engineers! ⚙️🔬",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbia_swe.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbia_swe.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ-qOSuEaTj/?hl=en",
     "linktree_url": "https://linktr.ee/columbia_swe?utm_source=linktree_profile_share&ltsid=87353a55-421a-431b-a51e-c6a2342851bb",
     "category": "Engineering"
@@ -281,7 +281,7 @@
     "name": "Columbia Space Initiative 🚀",
     "instagram": "columbiaspaceinitiative",
     "description": "We are the Columbia Space Initiative! A Columbia University student group dedicated to advancing space technology.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiaspaceinitiative.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiaspaceinitiative.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQEl7M_jcFM/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiaspace?utm_source=linktree_profile_share&ltsid=af79f774-2567-4f73-881a-50f846cd0f3a",
     "category": "Engineering"
@@ -290,7 +290,7 @@
     "name": "Columbia Formula SAE Racing",
     "instagram": "columbiafsae",
     "description": "We build racecars.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiafsae.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiafsae.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQPJfX8E3ks/?hl=en",
     "linktree_url": "https://linktr.ee/columbiafsae?utm_source=linktree_profile_share&ltsid=9ba404d9-f9cb-4f86-9536-fa905e5e9e01",
     "category": "Engineering"
@@ -299,7 +299,7 @@
     "name": "Columbia University Taekwondo",
     "instagram": "cutaekwondo",
     "description": "The Warriors of Uptown NYC💙\nOfficial Instagram for the CUTKD Club",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cutaekwondo.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cutaekwondo.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQSk2shCYwl/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/cutaekwondo?utm_source=linktree_profile_share&ltsid=f821339b-87f7-480d-9198-ad59f679cec2",
     "category": "Club Sports"
@@ -308,7 +308,7 @@
     "name": "Columbia University Dance Team",
     "instagram": "columbiadanceteam",
     "description": "The Official Instagram Account of the Columbia University Dance Team✨\nEmail: columbiadanceteam@gmail.com\nTikTok: columbiadanceteam",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiadanceteam.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiadanceteam.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRORN2bgO-B/?hl=en",
     "linktree_url": "https://docs.google.com/forms/d/e/1FAIpQLScaqsJFg_R-VSnr3iNC7UHtEA3fHh5EKHHljPFlR_sLBeWpKQ/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnnkmHvZ6tHT_l-QKYpuS03trmDfhF8vAeGfd7Tmy7CISoFQ-DMc4OqJvDWr8_aem_LcgpvqF8NRj-RFiHqFKimg",
     "category": "Club Sports"
@@ -317,7 +317,7 @@
     "name": "Columbia University Archery Club",
     "instagram": "columbiaclubarchery",
     "description": "Official account for the Archery Club at Columbia University\nAll disciplines & levels welcome!",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiaarcheryclub.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiaarcheryclub.jpg",
     "latest_post_url": "https://www.instagram.com/p/DFeomAuu0o1/?hl=en",
     "linktree_url": "https://linktr.ee/columbiaclubarchery?utm_source=linktree_profile_share&ltsid=08515ba6-4d20-4ff1-8ce7-b88b249ce7c7",
     "category": "Club Sports"
@@ -326,7 +326,7 @@
     "name": "CU EMS",
     "instagram": "cu_ems",
     "description": "Columbia University EMS\nVolunteer, free, student-run EMS @Columbia, serving Morningside Heights. Campus Emergency: (212) 854-5555.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUEMS.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUEMS.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRDYmixj4AE//",
     "linktree_url": "https://cuems.columbia.edu/",
     "category": "Pre-Med"
@@ -335,7 +335,7 @@
     "name": "CU BME",
     "instagram": "columbia_bme",
     "description": "Columbia BME\nDepartment of Biomedical Engineering, Fu Foundation School of Engineering and Applied Science, Columbia University 🧬🔬🥼",
-    "profile_picture_url": "http://localhost:3000/profileimgs/CUBME.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUBME.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRNJenSj-kt/",
     "linktree_url": "https://linkin.bio/columbia_bme/",
     "category": "Pre-Med"
@@ -344,7 +344,7 @@
     "name": "Omega Chapter of Phi Gamma Delta 𓅓",
     "instagram": "fijicolumbia",
     "description": "♔ ♔ Columbia University's oldest fraternity ♢ est. 1866",
-    "profile_picture_url": "http://localhost:3000/profileimgs/fijicolumbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/fijicolumbia.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRAhdqyid_p/?hl=en&img_index=1",
     "linktree_url": "",
     "category": "Frats"
@@ -353,7 +353,7 @@
     "name": "Sigma Nu",
     "instagram": "sigmanucolumbia",
     "description": "ΣΝ Chapter at Columbia University",
-    "profile_picture_url": "http://localhost:3000/profileimgs/sigmanucolumbia.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/sigmanucolumbia.jpg",
     "latest_post_url": "https://www.instagram.com/p/DN_JhjBDlqw/?hl=en&img_index=1",
     "linktree_url": "",
     "category": "Frats"
@@ -362,7 +362,7 @@
     "name": "Columbia SigEp",
     "instagram": "columbiasigep",
     "description": "ΣΦΕ NY Phi ♔ Great to be a Sigep",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiasigep.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiasigep.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ2ajCdkv0l/?hl=en&img_index=1",
     "linktree_url": "",
     "category": "Frats"
@@ -371,7 +371,7 @@
     "name": "Alpha Chi Omega",
     "instagram": "axocolumbia",
     "description": "ALPHA CHI OMEGA\nSorority & Fraternity\nNew York City — Theta Psi Chapter\nReal. Strong. Women.\n@alphachifilmdum",
-    "profile_picture_url": "http://localhost:3000/profileimgs/AXO.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/AXO.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQzijjGkc0d/",
     "linktree_url": "https://www.axocolumbia.com/",
     "category": "Sororities"
@@ -380,7 +380,7 @@
     "name": "Delta Gamma",
     "instagram": "dgcolumbia",
     "description": "Columbia University Zeta Theta\n@dgtalfilmcamera",
-    "profile_picture_url": "http://localhost:3000/profileimgs/DG.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/DG.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQzijjGkc0d/",
     "linktree_url": "https://linktr.ee/deltagammacolumbia",
     "category": "Sororities"
@@ -389,7 +389,7 @@
     "name": "Columbia Pops",
     "instagram": "columbiapops",
     "description": "Columbia University's premier pops ensembles dedicated to the arrangement and performance of cinematic, animated, and video game music.",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiapops.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiapops.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRJNIRVESaK/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiapops?utm_source=linktree_profile_share&ltsid=a600b9b3-9b05-4b1d-8bd1-4a2386843dea",
     "category": "Music/Performing Arts"
@@ -398,7 +398,7 @@
     "name": "CU Generation",
     "instagram": "cugeneration",
     "description": "Open Style Dance Group 👟 | Columbia University\nWORKSHOP 11/8",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cugeneration.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cugeneration.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQsRwvJkekr/?hl=en",
     "linktree_url": "https://linktr.ee/cugeneration?utm_source=linktree_profile_share&ltsid=697dd9fe-7751-403f-b1b0-00020be99d7b",
     "category": "Music/Performing Arts"
@@ -407,7 +407,7 @@
     "name": "Columbia University Lion Dance",
     "instagram": "cu_liondance",
     "description": "Official Instagram of CULD (哥大舞獅) 🦁\nEmail us for performances!\ncolumbiauniversityliondance@gmail.com\n📍New York, NY",
-    "profile_picture_url": "http://localhost:3000/profileimgs/cu_liondance.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cu_liondance.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQ1-lWBEeHh/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiauniversityliondance?utm_source=linktree_profile_share&ltsid=af0cf9ea-8736-4c4a-ad7f-30d3236a2ffd",
     "category": "Music/Performing Arts"
@@ -416,7 +416,7 @@
     "name": "CU WUSHU",
     "instagram": "columbiawushu",
     "description": "Official wushu club of Columbia University 🦁\nEst. 2010\nPractice: Mon/Thu 7-9pm; Sat 3-5pm EST",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiawushu.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiawushu.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRJZwq0jWIP/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiawushu?utm_source=linktree_profile_share&ltsid=042622f8-fbed-42cb-a925-bd46a8bbe2e6",
     "category": "Music/Performing Arts"
@@ -425,7 +425,7 @@
     "name": "COLUMBIA UNIVERSITY RAAS 🦁",
     "instagram": "columbiaraas",
     "description": "Columbia University’s Competitive Garba-Raas Dance Team\nGoFundMe Link in Bio :))",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiaraas.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiaraas.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRIVkoWkcpk/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/columbiaraas?utm_source=linktree_profile_share&ltsid=07bd4786-fb45-434f-9184-d1645cf16469",
     "category": "Music/Performing Arts"
@@ -434,7 +434,7 @@
     "name": "Columbia University Bhangra",
     "instagram": "columbiabhangra",
     "description": "🦁Columbia University's competitive bhangra team\n🗓️Auditions: Sept 20-21, 2025\n💌Email/DM for performance requests!\n🏆Bhangra in the Heights XIX: 🔜 👀",
-    "profile_picture_url": "http://localhost:3000/profileimgs/columbiabhangra.jpg",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiabhangra.jpg",
     "latest_post_url": "https://www.instagram.com/p/DRD0JLpEfmi/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/CUBhangra?utm_source=linktree_profile_share&ltsid=de83a29b-ed96-4e9a-9a96-e59a8043286f",
     "category": "Music/Performing Arts"
