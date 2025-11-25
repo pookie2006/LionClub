@@ -11,3 +11,7 @@ frontend/node_modules/
 
 # Env files
 .env
+
+docs/
+dist/
+build/
