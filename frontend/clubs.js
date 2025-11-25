@@ -183,7 +183,7 @@ function openModal(club) {
     title.textContent = club.name || "Club Name";
 
     const recentEvents = document.createElement('h4');
-    recentEvents.textContent = "Most Recent Post/Event";
+    recentEvents.textContent = "Recent Posts/Events";
     recentEvents.classList.add("recent-events");
     recentEvents.style.textAlign = 'center';
     recentEvents.style.width = '100%';
