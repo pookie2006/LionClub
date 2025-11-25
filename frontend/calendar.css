@@ -93,3 +93,19 @@
         width: 100%;
     }
 }
+
+.gcal-link {
+    display: none;
+    font-size: 0.8em;
+    color: #fff;
+    background-color: #00102b;
+    padding: 2px 5px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 2px;
+}
+
+.fc-event:hover .gcal-link {
+    display: inline-block;
+}
+
