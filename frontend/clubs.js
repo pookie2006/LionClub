@@ -178,47 +178,42 @@ function openModal(club) {
 
     const headerStrip = document.createElement('div');
     headerStrip.classList.add('header-strip');
+
     const title = document.createElement('h2');
     title.textContent = club.name || "Club Name";
 
     const recentEvents = document.createElement('h4');
     recentEvents.textContent = "Most Recent Post/Event";
     recentEvents.classList.add("recent-events");
-    recentEvents.style.textAlign = 'center'; // center horizontally
+    recentEvents.style.textAlign = 'center';
     recentEvents.style.width = '100%';
     
     headerStrip.appendChild(title);
     modalContent.appendChild(headerStrip);
     modalContent.appendChild(recentEvents);
 
-    if (club.latest_post_url) {
+    // --- Embed Instagram using iframe ---
+    if (club.instagram) {
         const container = document.createElement('div');
         container.classList.add('instagram-container');
         container.style.display = 'flex';
         container.style.justifyContent = 'center'; 
         container.style.margin = '20px 0';
 
-        const blockquote = document.createElement('blockquote');
-        blockquote.classList.add('instagram-media');
-        blockquote.setAttribute('data-instgrm-permalink', club.latest_post_url);
-        blockquote.setAttribute('data-instgrm-version', '14');
-        blockquote.style.width = '100%';
-        blockquote.style.maxWidth = '500px';
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.instagram.com/${club.instagram}/embed`;
+        iframe.width = "800";
+        iframe.height = "680";
+        iframe.frameBorder = "0";
+        iframe.scrolling = "no";
+        iframe.allowTransparency = true;
+        iframe.style.maxWidth = "100%";
+        iframe.style.borderRadius = "10px";
 
-        container.appendChild(blockquote);
+        container.appendChild(iframe);
         modalContent.appendChild(container);
-
-        if (!document.getElementById('instagram-embed-script')) {
-            const script = document.createElement('script');
-            script.async = true;
-            script.id = 'instagram-embed-script';
-            script.src = "//www.instagram.com/embed.js";
-            document.body.appendChild(script);
-        } else {
-            if (window.instgrm) window.instgrm.Embeds.process();
-        }
     }
-    
 }
+
 loadClubs();
 
