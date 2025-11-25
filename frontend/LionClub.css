@@ -79,7 +79,7 @@
     background-image: url('https://www.columbia.edu/content/sites/default/files/styles/cu_crop/public/content/Campus%20Images/Low_Library_NYC_skyline_night_lights.jpg?h=df0fa240&itok=M4yELnWC');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; /* makes it stay in place */
+    background-attachment: scroll; /* makes it stay in place */
 }
 
 .hero-overlay {
