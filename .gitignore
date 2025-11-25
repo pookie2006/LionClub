@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node modules
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Env files
+.env
