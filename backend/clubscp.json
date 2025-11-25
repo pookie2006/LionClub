@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Columbia VSA",
+      "instagram": "columbia.vsa",
+      "description": "Columbia University Vietnamese Students Association ♔ Vietnamese Student Association @columbia ♔",
+      "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_VSA.jpg",
+      "latest_post_url": "https://www.instagram.com/p/DQ93nJlDjHY/",
+      "linktree_url": "https://linktr.ee/columbiavsa",
+      "category": "Cultural"
+    },
+    {
+      "name": "Columbia CSC",
+      "instagram": "columbiacsc",
+      "description": "Columbia CSC Official Instagram for Columbia Chinese Students Club!",
+      "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_CSC.jpg",
+      "latest_post_url": "https://www.instagram.com/p/DRCspjzDQAU/",
+      "linktree_url": "https://linktr.ee/CSC_Columbia",
+      "category": "Cultural"
+    },
+    {
+      "name": "Columbia TASA",
+      "instagram": "tasa_cu",
+      "description": "Columbia University TASA We are the Taiwanese American Students Association at Columbia University! 💙🧋🥠🥟🥢❤️ Follow our food adventures: @fattassas",
+      "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CU_TASA.jpg",
+      "latest_post_url": "https://www.instagram.com/p/DQ8LSktDFhF/",
+      "linktree_url": "",
+      "category": "Cultural"
+    }
+]
