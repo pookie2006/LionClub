@@ -116,7 +116,127 @@
     "linktree_url": "https://linktr.ee/mixedheritagesociety",
     "category": "Cultural"
   },
-    {
+  {
+    "name": "CU Bangla",
+    "instagram": "cubangla",
+    "description": "CU Club Bangla১ Columbia University’s Bengali Student Association.২ Identity. Culture. Community. Empowerment.\n৩ Join the Bangla fam!",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUBANGLA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQztwo5D8sE/",
+    "linktree_url": "https://linktr.ee/cubangla"
+  },
+  {
+    "name": "Columbia NSA",
+    "instagram": "columbia.nsa",
+    "description": "Columbia Nepali Students Association🇳🇵",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUNEPAL.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DOeqDrRj2U5/",
+    "linktree_url": "https://linktr.ee/colulmbiansa"
+  },
+  {
+    "name": "Columbia KSA",
+    "instagram": "columbiaksa",
+    "description": "Columbia KSA Official Instagram for the Columbia Korean Students Association (CU KSA) 🇰🇷",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUKSA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRN4Q-DAd_a/",
+    "linktree_url": "https://linktr.ee/ksacolumbia"
+  },
+  {
+    "name": "CU Liga Filipina",
+    "instagram": "culigafilipina",
+    "description": "liga filipina 🦁☀️ columbia university’s sole filipinx cultural club 🇵🇭 find, inc. district iii⭐️ established 1990",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CULIGA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQ-Yb_agFLl/",
+    "linktree_url": "https://linktr.ee/LigaFilipina"
+  },
+  {
+    "name": "Columbia Carribean Students Association",
+    "instagram": "csacolumbia",
+    "description": "Caribbean Student Association Bringing the warmth of the islands to Columbia University ☀️ 🏝",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUCSA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRODghDDLGF/",
+    "linktree_url": "https://linktr.ee/csacolumbia"
+  },
+  {
+    "name": "CU Turath",
+    "instagram": "cuturath",
+    "description": "Turath | Columbia University Arab Student Association منظمة الطلبة العرب في جامعة كولومبيا Columbia University’s Arab Students Association. Stay updated about our events and initiatives here",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUTURATH.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQxwasfDLlh/",
+    "linktree_url": ""
+  },
+  {
+    "name": "Club Zamana",
+    "instagram": "club_zamana",
+    "description": "Columbia University’s South Asian Undergraduate Student Association",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/ZAMANA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRNPGu-kSI9/",
+    "linktree_url": ""
+  },
+  {
+    "name": "CUAPAHM",
+    "instagram": "cuapahm",
+    "description": "Columbia University APAHM columbia Asian Pacific American Heritage Month Club Celebrate pan-Asian voices through April heritage month events + year-round community bonding✨",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/APAHMCU.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DPNHMYajFQ5/",
+    "linktree_url": ""
+  },
+  {
+    "name": "Columbia University African Students Association",
+    "instagram": "asacolumbia",
+    "description": "Columbia University ASA",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUASA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRKcH8NDcgp/",
+    "linktree_url": ""
+  },
+  {
+    "name": "CU Alianza",
+    "instagram": "cu.alianza",
+    "description": "Alianza @columbia’s pan-Latine student organization Meetings every other Thursday at 8pm🫡♥️",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/ALIANZA.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQsw_Y6Ddva/",
+    "linktree_url": ""
+  },
+  {
+    "name": "Chicanx Caucus",
+    "instagram": "chicanxcaucus",
+    "description": "Chicanx Caucus ✧ A space for Mexican, Mexican-American, Chicanx and Latinx students at Columbia since 1972. ✧ Meetings every Wednesday at 9 PM",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CHICANX.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRLA3LJERbs/",
+    "linktree_url": "https://linktr.ee/chicanxcaucus"
+  },
+  {
+    "name": "Columbia Iranian Students Association (CISA)",
+    "instagram": "cu.iranis",
+    "description": "Columbia Iranian Students Association (CISA)انجمن دانشجویان ایرانی کلمبیا @columbia زن زندگی آزادی",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUIRAN.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRK4JQYERTm/",
+    "linktree_url": ""
+  },
+  {
+    "name": "Native American Council",
+    "instagram": "nativeamericancouncil",
+    "description": "NAC — Columbia We’re an Indigenous family in the city of New York",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUNAC.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRLq2G9EYW-/",
+    "linktree_url": ""
+  },
+  {
+    "name": "Mesaas Turkish Program at Columbia University",
+    "instagram": "turkishatmesaasatcolumbiau",
+    "description": "Turkish at Columbia University Mesaas Turkish Program at Columbia University in the City of New York 🇹🇷🏙️",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUTURKISH.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQaT_CyjUOX/",
+    "linktree_url": ""
+  },
+  {
+    "name": "French Cultural Society",
+    "instagram": "frenchculturalsociety.columbia",
+    "description": "French Cultural Society at Columbia University @columbia’s sole club for cultural, professional and social events around French culture 🇫🇷🏛️. Established in 1995.",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/CUFRENCHSOCIETY.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQn677qjYEy/",
+    "linktree_url": ""
+  },
+  {
     "name": "Columbia Consulting Group",
     "instagram": "columbiaconsulting",
     "description": "Oldest and Largest Consulting Group at Columbia University. Working with Real-World Businesses",
@@ -160,8 +280,8 @@
     "latest_post_url": "https://www.instagram.com/p/DRI8N8ikXCy/?hl=en",
     "linktree_url": "https://linktr.ee/grc.columbia?utm_source=linktree_profile_share&ltsid=b763d6e0-d74f-4e92-a2e4-2074372ffead",
     "category": "Consulting"
-  }, 
-    {
+  },
+  {
     "name": "Columbia Alpha Partners",
     "instagram": "cap.columbia",
     "description": "Interact with industry. Meet like-minded students. Find your future. Investment Banking | Global Markets | Real Estate",
@@ -294,11 +414,38 @@
     "latest_post_url": "https://www.instagram.com/p/DQPJfX8E3ks/?hl=en",
     "linktree_url": "https://linktr.ee/columbiafsae?utm_source=linktree_profile_share&ltsid=9ba404d9-f9cb-4f86-9536-fa905e5e9e01",
     "category": "Engineering"
-  }, 
-   {
+  },
+  {
+    "name": "Girls Who Code @ Columbia University",
+    "instagram": "girlswhocodecolumbia",
+    "description": "Providing on-campus computer science education to high school girls, targeted towards underrepresented girls in NYC.",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/GWC_Profile_Img.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRCvUD4jjr6/",
+    "linktree_url": "https://linktr.ee/columbiagirlswhocode?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn4s9L36UK8m5JSq9IvWnoHmMt7JC5kO6u0nEE3yfTZdq-7_fnFrPcw-r9xwo_aem_NLSSMhzi2yGS2B-5PmM9Bw",
+    "category": "Engineering"
+  },
+  {
+    "name": "ADI Columbia",
+    "instagram": "adicolumbia",
+    "description": "🦁 The largest computer science and technology club @columbia",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/ADI_PI.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DRCvUD4jjr6/",
+    "linktree_url": "https://linktr.ee/adicolumbia?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnVnAto1kxOFWSyim2WAB4LIaRajuGGV3oE4gIuUx4SwCOLycJGsgp3Vg_MDY_aem_RFZ4RphnXeW_CVuaURtUCg",
+    "category": "Engineering"
+  },
+  {
+    "name": "Design @ Columbia",
+    "instagram": "designatcolumbia",
+    "description": "Columbia University's first and only student-led organization for all things design with a focus on Product Design, UI/UX, and Graphic Design.",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/DesignAtCU_PI.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DQfOVsRiR3N/?hl=en",
+    "linktree_url": "https://l.instagram.com/?u=https%3A%2F%2Fjoin.slack.com%2Ft%2Fdesigncolumbiaboard%2Fshared_invite%2Fzt-3ih5sdufa-~VQzRBLkWTARGDC53wyHrg%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnoqu-3fGrhZpPgImCRZyrRwpxnL-aYIWbrNetpCcEf7T8tvwoeOPPcmT4VxA_aem_voj5JLCNqogQUYO3E3tuVg&e=AT0cIC0qHCUUcsHwpAFjPjWn-X4iZbLc6Y8ONSN2SgYYl_78fqsROurP7HUaQz0jhnaKS2vWcghmQyh1s2jGSsdftWOI1CTCVQZHVIHTbA",
+    "category": "Engineering"
+  },
+  {
     "name": "Columbia University Taekwondo",
     "instagram": "cutaekwondo",
-    "description": "The Warriors of Uptown NYC💙\nOfficial Instagram for the CUTKD Club",
+    "description": "The Warriors of Uptown NYC💙 Official Instagram for the CUTKD Club",
     "profile_picture_url": "https://lionclub.onrender.com/profileimgs/cutaekwondo.jpg",
     "latest_post_url": "https://www.instagram.com/p/DQSk2shCYwl/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/cutaekwondo?utm_source=linktree_profile_share&ltsid=f821339b-87f7-480d-9198-ad59f679cec2",
@@ -339,8 +486,8 @@
     "latest_post_url": "https://www.instagram.com/p/DRNJenSj-kt/",
     "linktree_url": "https://linkin.bio/columbia_bme/",
     "category": "Pre-Med"
-  }, 
-    {
+  },
+  {
     "name": "Omega Chapter of Phi Gamma Delta 𓅓",
     "instagram": "fijicolumbia",
     "description": "♔ ♔ Columbia University's oldest fraternity ♢ est. 1866",
@@ -438,5 +585,33 @@
     "latest_post_url": "https://www.instagram.com/p/DRD0JLpEfmi/?hl=en&img_index=1",
     "linktree_url": "https://linktr.ee/CUBhangra?utm_source=linktree_profile_share&ltsid=de83a29b-ed96-4e9a-9a96-e59a8043286f",
     "category": "Music/Performing Arts"
+  },
+  {
+    "name": "Columbia Taiko",
+    "instagram": "columbiataiko",
+    "description": "🥁 Columbia's one and only Taiko club!",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/columbiataiko.jpg",
+    "latest_project_url": "https://www.instagram.com/p/DRayIZDjCqS/",
+    "linktree_url": "https://linktr.ee/columbiataiko?utm_source=linktree_profile_share&ltsid=b0ec051d-f60d-41d8-85a3-87543ae33a32",
+    "category": "Music/Performing Arts"
+  },
+  {
+    "name": "ALPHA KAPPA PSI — CHI CHAPTER",
+    "instagram": "akpsicolumbia",
+    "description": "+ Columbia University | Est. 1920 + Shaping People, Shaping Business. ✉️: akpsichi@gmail.com",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/akpsicolumbia.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DPmXaSMDj3-/",
+    "linktree_url": "https://linktr.ee/akpsicolumbia?utm_source=linktree_profile_share&ltsid=c3941547-52e0-42f9-b076-cfa83d9fc153",
+    "category": "Pre-Professional"
+  },
+
+  {
+    "name": "PGN — Epsilon Lambda",
+    "instagram": "pgncolumbia",
+    "description": "PHI GAMMA NU • Columbia’s premier pre-professional society • Creating Leaders of Tomorrow Fall Rush App Below ⬇️",
+    "profile_picture_url": "https://lionclub.onrender.com/profileimgs/pgncolumbia.jpg",
+    "latest_post_url": "https://www.instagram.com/p/DO2Txi6jc0o/",
+    "linktree_url": "https://www.pgnleaders.org/columbia-university?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkOXGDLaCBqeFTXQxCZa3MrLa_UJFHijIXlZZUxUSu3d6_jlwebyvqABjw4w_aem_742kvI211s5AFwxGOwboLg",
+    "category": "Pre-Professional"
   }
 ]
