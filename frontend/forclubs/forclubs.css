@@ -1,0 +1,71 @@
+/* ===== FIXED TOP NAVBAR ===== */
+.top-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+
+    background-color: rgba(1, 35, 69, 0.95); /* Columbia dark blue */
+    backdrop-filter: blur(6px);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 20px;
+    z-index: 10000;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    gap: 40px;
+    box-sizing: border-box;                  
+}
+
+.top-nav .nav-right {
+    display: flex;
+    gap: 25px;
+    font-family: 'Google Sans Code', sans-serif;
+}
+
+.top-nav .logo {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.logo {
+    font-family: 'Google Sans Code', sans-serif;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.logo:hover {
+    opacity: 0.8; /* optional hover effect */
+}
+
+.top-nav .nav-right a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: 0.2s ease;
+}
+
+.top-nav .nav-right a:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+/* Spacer under fixed navbar */
+.nav-spacer {
+    height: 60px;
+    width: 100%;
+}
