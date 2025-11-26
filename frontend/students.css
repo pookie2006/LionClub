@@ -1,0 +1,26 @@
+.student-buttons {
+    width: 100%;
+    max-width: 400px;           /* controls max button width */
+    /*margin: 30px auto 0;        /* center the group */
+    display: flex;
+    flex-direction: column;     /* stack vertically */
+    gap: 15px;
+}
+
+.student-btn {
+    display: block;
+    width: 100%;                /* same width for all buttons */
+    padding: 14px 0;
+    background-color: #20297b;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family: 'Google Sans Code', sans-serif;
+    text-align: center;
+    font-size: 1.1em;
+    transition: background-color 0.2s;
+}
+
+.student-btn:hover {
+    background-color: #62b6c3;
+}
